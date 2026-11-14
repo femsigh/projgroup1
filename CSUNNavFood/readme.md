@@ -10,6 +10,7 @@ Users on the CSUN campus often want to grab a meal but struggle to determine whi
 
 ## Proposed Methods & Algorithms
 
+
 We will model the CSUN campus as a weighted graph:
 
 - **Vertices (Nodes):** Restaurants, food outlets, and starting user locations.
